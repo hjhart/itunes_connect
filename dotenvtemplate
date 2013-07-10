@@ -1,0 +1,4 @@
+ITC_EMAIL=your_itunes_connect@email.com
+ITC_PASSWORD=your_itunes_connect_password_here
+ITC_VENDOR_ID=your_itunes_connect_vendor_id
+PROWL_API_KEY=your_prowl_api_key
